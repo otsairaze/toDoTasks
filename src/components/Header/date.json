@@ -1,0 +1,11 @@
+[
+  {
+    "imageUrl": "../../../public/Header/registation.png"
+  },
+  {
+    "imageUrl": "../../../public/Header/login.png"
+  },
+  {
+    "imageUrl": "../../../public/Header/exit.png"
+  }
+]

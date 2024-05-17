@@ -1,0 +1,20 @@
+.inner {
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  margin-top: 39px;
+}
+
+.input {
+  width: 400px;
+  padding: 20px;
+  border-radius: 60px;
+  background-color: inherit;
+  border: 2px solid #ffffff;
+  outline: none;
+}
+
+.input::placeholder {
+  color: #fff;
+  font-size: 20px;
+}

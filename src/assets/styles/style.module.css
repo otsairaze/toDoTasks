@@ -1,0 +1,16 @@
+.text {
+  font-size: 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 250px;
+}
+
+.span {
+  color: #0085ff;
+  font-weight: 500;
+}
+
+.emoji {
+  font-size: 120px;
+}
